@@ -11,4 +11,9 @@
 - A DVCS allows users to create a mirrored repo. These backups can easily replace any lost information on the server.
 
 # Git: What is it?
-- A DVCS that stores
+- A DVCS that stores data in a file system made up of snapshots.
+- Each time you save (commit) Git creates a snapshot of the file and stores a snapshot of it.
+- If the file has not changed, Git only stores a reference to the already-stored identical version of it.
+- Git mainly relies on local ops because most necessary info can be found locally. Allowing for expediency and to continue working on a project even when not online.
+- Every change applie to any file or directory is tracked. As the gatekeeper Git will detect file corruption or loss of info in transit.
+- Git is set up to minimize risk of irreversible damage to files.
