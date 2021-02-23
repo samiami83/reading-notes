@@ -5,6 +5,6 @@
 ###### In a [blog posting](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) on Inside Atlassian Steve Haffenden had this to say:
 > When I feel myself losing focus, I try to remember that short-term frustration will likely result in long-term improvement of my abilities – if I just stay with it. A growth mindset opens me up to more creativity and possibility, and I discover I’m able to achieve more and set higher goals.
 ## Reminders for my own growth: 
-1. Growth occurs when one persists through an obstacle.
-2. Effort is essential when improvement is the desired outcome.
+1. *Growth* occurs when one *persists through an obstacle.*
+2. **Effort is essential when improvement is the desired outcome.
 3. The accomplishments of others should not discourage you, but inspire your continued improvement. 
