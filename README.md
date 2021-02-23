@@ -10,4 +10,4 @@
 3. ***The accomplishments of others should not discourage you, but inspire your continued improvement.*** 
 #### About me:
 [Sammy Antigua](https://github.com/samiami83)
-I'm a passionate new software developer with experience in a variety of tech industries.
+- I'm a passionate new software developer with experience in a variety of tech industries.
