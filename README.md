@@ -7,4 +7,4 @@
 ## Reminders for my own growth: 
 1. *Growth* occurs when one *persists through an obstacle.*
 2. **Effort is essential when improvement is the desired outcome.**
-3. The accomplishments of others should not discourage you, but inspire your continued improvement. 
+3. ***The accomplishments of others should not discourage you, but inspire your continued improvement.*** 
