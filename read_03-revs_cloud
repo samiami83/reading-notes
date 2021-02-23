@@ -9,3 +9,6 @@
 ### Distributed Version Control System DVCS
 - This system addresses the major vulnerability of the CVS: the server as a single point of failure.
 - A DVCS allows users to create a mirrored repo. These backups can easily replace any lost information on the server.
+
+# Git: What is it?
+- A DVCS that stores
