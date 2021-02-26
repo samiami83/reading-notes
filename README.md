@@ -14,6 +14,6 @@
 - I'm a passionate new software developer with experience in a variety of tech industries.
 
 **Table of Contents**
-
+[Read02](read_02.md)
 [Read03](read_03-revs_cloud.md)
 [Read08](read_08.md)
