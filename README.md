@@ -19,4 +19,5 @@
 [Read03](read_03-revs_cloud.md)
 [Read04](read_04.md)
 [Read05](read_05.md)
+[Read06a](read_06a.md)
 [Read08](read_08.md)
